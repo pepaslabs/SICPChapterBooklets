@@ -3,7 +3,7 @@
 
 After [splitting SICP into chapters](https://github.com/pepaslabs/SICPChapters), I then used [impositioner](https://github.com/sgelb/impositioner) to reformat it to be printed, cut in half, and bound into 5.5" x 8.5" booklets.
 
-## Implementation Details
+## Technical Details
 
 ```bash
 sudo apt-get install python3 python3-pip
