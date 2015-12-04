@@ -1,7 +1,7 @@
 # SICPChapterBooklets
 [SICP](https://mitpress.mit.edu/sicp/), split into chapters, impositioned into booklets (PDF format).
 
-After [splitting SICP into chapters](https://github.com/pepaslabs/SICPChapters), I then used [impositioner](https://github.com/sgelb/impositioner) to reformat it to be printed, cut in half, and bound into a 5.5" x 8.5" booklets.
+After [splitting SICP into chapters](https://github.com/pepaslabs/SICPChapters), I then used [impositioner](https://github.com/sgelb/impositioner) to reformat it to be printed, cut in half, and bound into 5.5" x 8.5" booklets.
 
 ## Implementation Details
 
